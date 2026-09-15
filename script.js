@@ -498,7 +498,7 @@ const quotes = [
 
 "I'm so lucky to have you, Rama. ♡",
 
-"Five months, countless little memories. 🤎",
+"Four months, countless little memories. 🤎",
 
 "You make ordinary days feel special.",
 
@@ -508,7 +508,7 @@ const quotes = [
 
 "Thank you for being my favorite person. 🧸",
 
-"Lima bulan sama kamu, and I'd choose you again.",
+"Empat bulan sama kamu, and I'd choose you again.",
 
 "You are one of my favorite parts of every day.",
 
@@ -665,7 +665,7 @@ heroText.after(typing);
 const messages = [
     "made with love by Aya ♡",
     "for my favorite Rama 🧸",
-    "five months and still falling for you...",
+    "four months and still falling for you...",
     "you + me = my favorite story ♡"
 ];
 
